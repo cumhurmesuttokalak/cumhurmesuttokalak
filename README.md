@@ -19,7 +19,7 @@
 </a> <a href="https://www.java.com/tr/" target="_blank" rel="noreferrer"> 
 <img src="https://upload.wikimedia.org/wikipedia/tr/thumb/2/2e/Java_Logo.svg/1200px-Java_Logo.svg.png" alt="java" width="40" height="40"/> </a> 
 <a href="https://tr.wikipedia.org/wiki/.NET_Framework" target="_blank" rel="noreferrer"> 
-<img src="https://https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" alt=".net" width="40" height="40"/> </a>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" alt=".net" width="40" height="40"/> </a>
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
