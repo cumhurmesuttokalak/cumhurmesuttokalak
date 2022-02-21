@@ -11,8 +11,8 @@
 ## 🛠 Skills
 
 <p align="left"> 
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"> 
-<img src="https://nodejs.org/static/images/logo.svg" alt="nodejs" width="40" height="40"/> </a>
+<a href="https://go.dev" target="_blank" rel="noreferrer"> 
+<img src="https://download.logo.wine/logo/Go_(programming_language)/Go_(programming_language)-Logo.wine.png" alt="go" width="40" height="40"/> </a>
  
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
