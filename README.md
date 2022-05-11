@@ -1,11 +1,12 @@
-<h1 align="center">Hi 👋, I'm Mesut</h1>
+<img src="https://media.giphy.com/media/g96QRNjWUvdKw/giphy.gif" align="right" width="400" height="250">
+<h1 align="center">Hi there, I'm Mesut 😊</h1>
 <h3 align="center">A passionate Backend Developer from Turkey</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=cumhurmesuttokalak&label=Profile%20views&color=0e75b6&style=flat" alt="mesuttokalak" /> </p>
 
 <br><br>
-- 🔭 I’m currently working on the web
-- 🌱 I’m currently learning <a href="https://go.dev" target="_blank" rel="noreferrer"> Go <img src="https://download.logo.wine/logo/Go_(programming_language)/Go_(programming_language)-Logo.wine.png" alt="nodejs" width="25" height="25"/> </a>
+- 🔭 <font color="green">I’m currently working on the web</font>
+- 🌱 <font color="green">I’m currently learning <a href="https://go.dev" target="_blank" rel="noreferrer"></font> Go <img src="https://download.logo.wine/logo/Go_(programming_language)/Go_(programming_language)-Logo.wine.png" alt="nodejs" width="25" height="25"/> </a>
 <br>
 
 ## 🛠 Skills
@@ -16,7 +17,8 @@
  
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-</a> <a href="https://www.java.com/tr/" target="_blank" rel="noreferrer"> 
+</a>
+<a href="https://www.java.com/tr/" target="_blank" rel="noreferrer"> 
 <img src="https://upload.wikimedia.org/wikipedia/tr/thumb/2/2e/Java_Logo.svg/1200px-Java_Logo.svg.png" alt="java" width="40" height="40"/> </a> 
 <a href="https://laravel.com" target="_blank" rel="noreferrer"> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" alt=".net" width="40" height="40"/> </a>
@@ -42,10 +44,10 @@
 
 <br>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cumhurmesuttokalak&layout=compact&langs_count=12)](https://github.com/anuraghazra/github-readme-stats" alt="Cumhur Mesut TOKALAK:: Profile Stats" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cumhurmesuttokalak&theme=""layout=compact&langs_count=12)](https://github.com/anuraghazra/github-readme-stats" alt="Cumhur Mesut TOKALAK:: Profile Stats" /></p>
 
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=cumhurmesuttokalak&count_private=true&show_icons=true&theme=cobalt" alt="Cumhur Mesut TOKALAK:: Profile Stats" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=cumhurmesuttokalak&count_private=true&show_icons=true&theme=radical" alt="Cumhur Mesut TOKALAK:: Profile Stats" /></p>
 
 
 <p align="center"><img src="http://github-readme-streak-stats.herokuapp.com?user=cumhurmesuttokalak&theme=dracula&date_format=%5BY%20%5DM%20j&background=193549" alt="Cumhur Mesut TOKALAK:: Profile Stats" /></p>
