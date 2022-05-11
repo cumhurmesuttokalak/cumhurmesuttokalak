@@ -5,7 +5,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=cumhurmesuttokalak&label=Profile%20views&color=0e75b6&style=flat" alt="mesuttokalak" /> </p>
 
 <br><br>
-- 🔭 <font color="red">I’m currently working on the web </font>
+<font - 🔭  color="red">I’m currently working on the web </font>
 - 🌱 <font color="red">I’m currently learning <a href="https://go.dev" target="_blank" rel="noreferrer"></font> Go <img src="https://download.logo.wine/logo/Go_(programming_language)/Go_(programming_language)-Logo.wine.png" alt="nodejs" width="25" height="25"/> </a>
 <br>
 
