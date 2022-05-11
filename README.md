@@ -2,7 +2,7 @@
 <h1 align="center">Hi there, I'm Mesut 😊</h1>
 <h3 align="center">A passionate Backend Developer from Turkey</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=cumhurmesuttokalak&label=Profile%20views&color=0e75b6&style=flat" alt="mesuttokalak" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=cumhurmesuttokalak&label=Profile%20views&color=green&style=flat" alt="mesuttokalak" /> </p>
 
 <br><br>
  - 🔭I’m currently working on the web
