@@ -18,6 +18,8 @@
 <img src="https://www.docker.com/wp-content/uploads/2022/03/horizontal-logo-monochromatic-white.png" alt="docker" width="60" height="60"/> </a>
 <a href="https://www.mongodb.com" target="_blank" rel="noreferrer"> 
 <img src="https://logos-download.com/wp-content/uploads/2016/09/MongoDB_logo_Mongo_DB.png" alt="mongodb" width="60" height="60"/> </a>
+ <a href="https://https://www.mysql.com" target="_blank" rel="noreferrer"> 
+<img src="https://www.mysql.com/common/logos/powered-by-mysql-88x31.png" alt="mysql" width="60" height="60"/> </a>
 <a href="https://www.javascript.com" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/></a>
 <a href="https://www.java.com/tr/" target="_blank" rel="noreferrer"> 
