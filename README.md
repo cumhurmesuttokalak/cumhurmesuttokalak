@@ -13,21 +13,21 @@
 
 <p align="left"> 
 <a href="https://go.dev" target="_blank" rel="noreferrer"> 
-<img src="https://download.logo.wine/logo/Go_(programming_language)/Go_(programming_language)-Logo.wine.png" alt="go" width="40" height="40"/> </a>
+<img src="https://download.logo.wine/logo/Go_(programming_language)/Go_(programming_language)-Logo.wine.png" alt="go" width="60" height="60"/> </a>
 <a href="https://www.docker.com" target="_blank" rel="noreferrer"> 
-<img src="https://www.docker.com/wp-content/uploads/2022/03/horizontal-logo-monochromatic-white.png" alt="docker" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
+<img src="https://www.docker.com/wp-content/uploads/2022/03/horizontal-logo-monochromatic-white.png" alt="docker" width="60" height="60"/> </a>
+<a href="https://www.javascript.com" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/></a>
 <a href="https://www.java.com/tr/" target="_blank" rel="noreferrer"> 
-<img src="https://upload.wikimedia.org/wikipedia/tr/thumb/2/2e/Java_Logo.svg/1200px-Java_Logo.svg.png" alt="java" width="40" height="40"/> </a> 
+<img src="https://upload.wikimedia.org/wikipedia/tr/thumb/2/2e/Java_Logo.svg/1200px-Java_Logo.svg.png" alt="java" width="60" height="60"/> </a> 
 <a href="https://laravel.com" target="_blank" rel="noreferrer"> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" alt=".net" width="40" height="40"/> </a>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" alt=".net" width="60" height="60"/> </a>
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60"/> 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60"/> </a>
 <a href="https://www.microsoft.com/tr-tr/sql-server/sql-server-2019/" target="_blank" rel="noreferrer"> 
-<img src="https://cdn.hosting.com.tr/hosting/img/svg/windows/sqlserver.svg" alt="sql" width="40" height="40"/> </a>
+<img src="https://cdn.hosting.com.tr/hosting/img/svg/windows/sqlserver.svg" alt="sql" width="60" height="60"/> </a>
 
 </p>
 <br>
