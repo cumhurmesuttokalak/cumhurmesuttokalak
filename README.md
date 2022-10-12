@@ -14,6 +14,8 @@
 <p align="left"> 
 <a href="https://go.dev" target="_blank" rel="noreferrer"> 
 <img src="https://download.logo.wine/logo/Go_(programming_language)/Go_(programming_language)-Logo.wine.png" alt="go" width="60" height="60"/> </a>
+<a href="https://docs.gofiber.io" target="_blank" rel="noreferrer"> 
+<img src="https://repository-images.githubusercontent.com/234231371/00fd8700-5430-11ea-820b-15fd85b2472c" alt="html5" width="60" height="60"/> 
 <a href="https://www.docker.com" target="_blank" rel="noreferrer"> 
 <img src="https://www.docker.com/wp-content/uploads/2022/03/horizontal-logo-monochromatic-white.png" alt="docker" width="60" height="60"/> </a>
 <a href="https://www.mongodb.com" target="_blank" rel="noreferrer"> 
