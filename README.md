@@ -1,4 +1,3 @@
-<img src="https://media.giphy.com/media/g96QRNjWUvdKw/giphy.gif" align="right" width="400" height="250">
 <h1 align="center">Hi there, I'm Mesut 😊</h1>
 <h3 align="center">A passionate Backend Developer from Turkey</h3>
 
